@@ -1,0 +1,125 @@
+/* h1 {
+  color: #f72585;
+}
+
+#whatIsChapter {
+  font-weight: bold;
+}
+
+.buttons {
+    margin-left: 20px;
+}
+
+#introToChapter {
+    margin-left: 20px;
+} */
+
+
+h3 {
+  color: #f72585;
+  padding-top: 30px;
+  margin-left: 10px;
+  font-family: "Hanalei Fill", cursive;
+  font-family: "Langar", cursive;
+}
+
+#about-me {
+  margin-left: 20px;
+  margin-right: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 60;
+}
+
+.school-nav {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+.who-am-i {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+/* Footer */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer-container {
+  background-color: #212329;
+  padding: 4rem 0 4rem 0;
+  margin-top: 245px;
+}
+
+.footer {
+  width: 80%;
+  height: 40vh;
+  background-color: #212329;
+  color: #fff;
+  display: flex;
+  justify-items: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.footer-heading {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20rem;
+}
+
+.footer-heading h2 {
+  margin-bottom: 2em;
+}
+
+.footer-heading a {
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 0.5em;
+}
+
+.footer-heading a:hover {
+  color: red;
+  transition: 0.3s ease-out;
+}
+
+.footer-email-form h2 {
+  margin-bottom: 2rem;
+
+}
+
+#footer-email {
+  width: 250px;
+  height: 40px;
+  border-radius: 4px;
+  outline: none;
+  border: none;
+  padding-left: 0.5rem;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+#footer-email::placeholder {
+  color: #b1b1b1;
+}
+
+#footer-email-btn {
+  width: 100px;
+  height: 40px;
+  border-radius: 4px;
+  background-color: #f9423d;
+  outline: none;
+  border: none;
+  color: #fff;
+  font-size: 1rem;
+}
+
+#footer-email-btn:hover {
+  cursor: pointer;
+  background-color: #337AF1;
+  transition: 0.4s ease-out;
+}
