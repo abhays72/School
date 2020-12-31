@@ -1,0 +1,62 @@
+h1 {
+  margin-left: 10px;
+  margin-top: 40px;
+  color: #4cc9f0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+}
+h3 {
+  margin-top: 40px;
+  margin-left: 30px;
+}
+
+.questions {
+  margin-top: 40px;
+  color: linear-gradient(90deg, rgba(6,82,197,1) 35%, rgba(212,65,142,1) 100%);
+  border: transparent;
+  margin-left: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+}
+
+.answers {
+  margin-left: 50px;
+  margin-top: 20px;
+  color: #bc00dd;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.list {
+  color: #ffafcc;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-size: 18px;
+}
+
+#list-head {
+  line-height: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#list-head-head {
+  margin-top: 8px;
+  margin-left: 60px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.criteria-list-header {
+  color: #d8bbff;
+  margin-left: 40px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+.criteria-list {
+  margin-bottom: 10px;
+  margin-left: 60px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  color: #f9bec7;
+}
